@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
 Author: Sawyer
-Credit:
+Credit: Nils
 
 Assignment:
 
